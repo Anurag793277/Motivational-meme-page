@@ -1,0 +1,32 @@
+*{
+    background-color: rgb(163, 100, 100);
+}
+img{
+    width: 50%;
+    border: 2px solid #000000;
+    border-radius: 3px;
+    margin-left: 42px;
+    margin-top: 5%;
+}
+.first{
+    margin-left: 25%;
+    
+}
+.second{
+color: rgb(229, 240, 243);
+font-family: 'Caveat', cursive;
+font-family: 'Merriweather', serif;
+width: 50%;
+margin-left: 25%;
+text-transform: capitalize;
+}
+.third{
+    color: rgb(209, 237, 223);
+    font-family: 'Caveat', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Titillium Web', sans-serif;
+width: 50%;
+margin-left: 25%;
+}
+
+
